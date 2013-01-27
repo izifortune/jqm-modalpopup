@@ -26,6 +26,7 @@ And you can close
 ##Options
 
 Current options are:
+
     - headerTheme: theme of the popup header ( default: 'b')
     - btnOkText: text for Confirm/Ok button( default: 'Ok')
     - btnCancelText: text for Cancel button ( default 'Cancel')
