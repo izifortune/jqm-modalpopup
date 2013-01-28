@@ -66,6 +66,7 @@
 
 
             //Title
+            $('#' + this.selector).html('');
             $('#' + this.selector).append('<div data-role="header" data-theme="'
                                + this.options.headerTheme
                                + '" class="ui-corner-top\
