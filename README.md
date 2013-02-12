@@ -37,6 +37,7 @@ Current options are:
     - body: text inserted into the body of the popup ( message )
     - onCancel: function called after btnCancel is pressed ( default: close popup)
     - onOk: function called after btnOk is pressed ( default: close popup)
+    - oneButtonOnly: specify if the popup got one or two buttons ( default: false )
 
 #Working Example
 
