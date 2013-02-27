@@ -70,7 +70,7 @@
             $('#' + this.selector).append('<div data-role="header" data-theme="'
                                + this.options.headerTheme
                                + '" class="ui-corner-top\
-                              ui-header ui-bar-f" role="banner">\
+                              ui-header" role="banner">\
                               <h1 class="ui-title" role="heading" aria-level="1"></h1>\
                               </div>');
 
